@@ -1,3 +1,3 @@
 # Html-Projekt
 
-Vorschau: https://felisapaumia.github.io/html-projekt/
+Vorschau: https://felisapaumia.github.io/Html-Projekt
